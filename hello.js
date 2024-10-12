@@ -3,3 +3,4 @@ console.log('hello github');
 
 console.log('hello from dev-angelina');
 
+//popravi kolegin bug
